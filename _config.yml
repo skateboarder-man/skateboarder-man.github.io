@@ -21,7 +21,6 @@ description: >- # this means to ignore newlines until "baseurl:"
   Google search results) and in your feed.xml site description.
 url: # the base hostname & protocol for your site e.g. "https://skateboarder-man.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
-twitter_username: username
 github_username: skateboarder-man
 minimal_mistakes_skin: default
 search: true
@@ -61,27 +60,19 @@ plugins:
 
 author:
   name   : "Jungho Park"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  avatar : "/assets/images/profile_photo.jpg"
+  bio    : "초보개발자 처음 만들어 보는 github 블로그"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://skateboarder-man.github.io"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://skateboarder-man"
+    
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
