@@ -36,7 +36,8 @@ tags:
    - <https://jekyllthemes.io> 접속
    - 원하는 형태의 theme 선택
    - 필자는 <https://mmistakes.github.io/minimal-mistakes/> 사용하였다.
-   - <https://github.com/mmistakes/mm-github-pages-starter/generate> 클릭시 바로 Repository 생성 페이지로 이동하면 theme 을 받아온다.
+   - <https://github.com/mmistakes/mm-github-pages-starter/generate> 클릭시 바로 Repository 생성 페이지로 이동한다.
+   - Repository 생성하면 바로 theme 을 받아온다.
    - 받아오기 완료 하면 다시 https://사용자아이디.github.io 접속하여 화면에 블로그가 나오는지 확인.
    - 블로그 나오면 선택한 theme을 자기 자신의 블로그에 올린것이다.
 
@@ -48,7 +49,7 @@ tags:
    cd <Directory 생성 위치>
    ```
    예)cd Portpolio<폴더명>
-
+  
    ```yaml
    git clone [복사한 주소]
    ```
