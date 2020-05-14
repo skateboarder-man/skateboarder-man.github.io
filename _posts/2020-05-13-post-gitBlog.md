@@ -1,12 +1,11 @@
 ---
 title: "그대로 따라하면 되는 Git Blog 만들기"
-excerpt_separator: "<!--more-->"
 categories:
-  - Blog
+  - GitHub Blog
 tags:
-  - Post Formats
-  - readability
-  - standard
+  - blog
+  - git
+  - 깃 블로그
 ---
 
 # 1. Ruby 설치
