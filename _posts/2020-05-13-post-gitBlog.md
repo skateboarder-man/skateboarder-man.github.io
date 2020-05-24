@@ -24,12 +24,17 @@ tags:
 
 # 3. GitHub 블로그 생성
    - 회원가입 한다.
-   - Repositories 생성 한다.
+   - Repositories 생성 한다.<br>
+   - <img src="/assets/images/git.jpg" width="500px" height="300px">
    - Repository name 을 사용자아이디.github.io 입력
    - Public 선택
    - Initialize this repository with a README 체크박스 체크
-   - Create repositoty 클릭
+   - Create repositoty 클릭<br>
+   - <img src="/assets/images/git1.jpg" width="500px" height="300px">
    -  https://사용자아이디.github.io 접속하여 화면에 사용자아이디.github.io 나오면 성공
+  
+
+   
 
 # 4. jekyllthemes 선택
    - <https://jekyllthemes.io> 접속
